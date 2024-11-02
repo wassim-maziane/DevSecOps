@@ -21,9 +21,3 @@ This project includes several submodules for deploying a complete application st
 - **URL:** [angular-16-crud-example](https://gitlab.com/binge_hacker/angular-16-crud-example.git)
 - **Description:** This submodule contains an Angular application implementing a CRUD (Create, Read, Update, Delete) interface.
 
-## Cloning the Repository
-
-To clone this repository along with its submodules, use the following command:
-
-```bash
-git clone --recurse-submodules <repository-url>
